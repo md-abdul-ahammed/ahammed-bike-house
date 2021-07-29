@@ -1,15 +1,33 @@
+/* For header part */
 .header-bg-color{
     background-color: #264653;
 }
 .header-p-color{
     color: #E0E0E0;
 }
+/* for color management */
 .universal-btn-color{
     background: #E76F51 !important;
 }
 .universal-text-color{
     color: #E76F51;
 }
+/* for grayscale */
 .img-grayscale{
     filter: grayscale(100%);
+}
+/* for horizontal line control */
+.hr {
+    width: 8%;
+    height: 3px !important;
+    color: #E76F51;
+    opacity: 1;
+}
+/* for anchor management */
+.anchor-decoration{
+    text-decoration: none;
+}
+/* for footer part */
+.footer-bg{
+    background-color: #0B0D17;
 }
