@@ -1,0 +1,15 @@
+.header-bg-color{
+    background-color: #264653;
+}
+.header-p-color{
+    color: #E0E0E0;
+}
+.universal-btn-color{
+    background: #E76F51 !important;
+}
+.universal-text-color{
+    color: #E76F51;
+}
+.img-grayscale{
+    filter: grayscale(100%);
+}
